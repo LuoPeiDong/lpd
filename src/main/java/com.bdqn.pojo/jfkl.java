@@ -7,5 +7,5 @@ public class jfkl {
     private String addds;
     private String adddss;
     private String adddsss;
-
+    private String ass;
 }
